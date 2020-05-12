@@ -1,4 +1,4 @@
-# Beam Learning Month
+![Stay home, learn Beam](https://github.com/aijamalnk/beam-learning-month/raw/master/images/banner.png)
 
 Welcome to Beam Learning Month's repository! Here, you will be able to find all the materials from the different presentations.
 
