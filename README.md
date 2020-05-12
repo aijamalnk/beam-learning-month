@@ -1,8 +1,8 @@
 ![Stay home, learn Beam](https://github.com/aijamalnk/beam-learning-month/raw/master/images/banner.png)
 
-Welcome to Beam Learning Month's repository! Here, you will be able to find links to the recordings and source files that were used during the presentations. 
+Welcome to Beam Learning Month's repository! Here, you will find links to the recordings and source files that were used during the webinars. 
 
-If you have an interesting use case with Apache Beam and would like to speak at future webinars, please reach out to [Aijamal](mailto:aizhamal@apache.org) with a short description of your talk.
+If you have an interesting use case with Apache Beam and would like to speak at future webinars, please reach out to [Aijamal](mailto:aizhamal@apache.org) with your talk details.
 
 If you have feedback on on how to improve Apache Beam and these webinars, please fill out [this form](s.apache.org/beam-survey). We will use your feedback to prepare future webinar content and prioritize feature requests in Apache Beam. 
 
