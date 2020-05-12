@@ -2,7 +2,7 @@
 
 Welcome to Beam Learning Month's repository! Here, you will find links to the recordings and source files that were used during the presentations. 
 
-If you have an interesting use case with Apache Beam and would like to speak at future webinars, please reach out to [Aijamal](mailto:aizhamal@apache.org) with your talk details.
+If you have an interesting use case with Apache Beam and would like to speak at future webinars, please reach out to [Aijamal](aizhamal@apache.org) with your talk details.
 
 If you have feedback on on how to improve Apache Beam and these webinars, please fill out [this form](s.apache.org/beam-survey). We will use your feedback to prepare future webinar content and prioritize feature requests in Apache Beam. 
 
