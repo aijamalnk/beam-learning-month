@@ -17,7 +17,7 @@ They also had prepared a streaming pipeline, but due to time constraints, they c
 ### Materials
 
 - [Recoded session on Youtube](https://www.youtube.com/watch?v=w0L1rjU_Ib4)
-- Slides from their presentation (**these are pending**)
+- [Slides from their presentation](https://docs.google.com/presentation/d/1TSuhvNLlvQxLJAwthtyktzvIgzBLn59DiOXVViPJBbM/edit?usp=sharing)
 - [A colab that you can use to run the examples](https://colab.sandbox.google.com/drive/13gMtIoGCrU66ZY8-VkoQosal6yEtHQPF?usp=sharing)
 - [README on Interactive Beam](https://github.com/apache/beam/blob/master/sdks/python/apache_beam/runners/interactive/README.md) and [examples](https://github.com/apache/beam/blob/master/sdks/python/apache_beam/runners/interactive/examples).
 
