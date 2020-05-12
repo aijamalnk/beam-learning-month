@@ -18,9 +18,10 @@ They also had prepared a streaming pipeline, but due to time constraints, they c
 
 
 
-# For Speakers
+---
+## Information for Speakers
 
-## Resource checklist:
+### Resource checklist:
 - Link to the presentation (make sure to give “view” access to the world)
 - Source files that were used during the presentation/demo 
 - Links to additional colabs, related talks or README files
