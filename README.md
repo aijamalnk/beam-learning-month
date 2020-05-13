@@ -6,8 +6,7 @@ If you have an interesting use case with Apache Beam and would like to speak at 
 
 If you have feedback on on how to improve Apache Beam and these webinars, please fill out [this form](s.apache.org/beam-survey). We will use your feedback to prepare future webinar content and prioritize feature requests in Apache Beam. 
 
-We also created a [Slack channel](https://bit.ly/2RO9TmO) if you want to connect to other attendees of the Beam Learning Month and have further discussions on Beam.
-
+We also created a [#beamlearningmonth-05-2020 Slack channel](https://bit.ly/2RO9TmO) if you want to connect to other attendees of the Beam Learning Month and have further discussions on Beam.
 
 ## Webinar 1: An interactive introduction to Apache Beam
 
