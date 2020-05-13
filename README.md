@@ -29,7 +29,7 @@ correctness of your pipelines. Interactively developing a pipeline that performs
 
 ### Materials
 
-- Recorded session on Youtube **PENDING**
+- [Recorded session on Youtube](https://www.youtube.com/watch?v=Cf3-Z_HQRdE)
 - [Presentation slides](https://docs.google.com/presentation/d/1x0nEZDVYwzWYifKG6hdxxhPiUfHJGL-VRj4mAm5pcps/edit#slide=id.p)
 - [Github Repository with the code to walk along](https://github.com/pabloem/beam-covid-example)
 
