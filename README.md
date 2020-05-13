@@ -22,7 +22,16 @@ They also had prepared a streaming pipeline, but due to time constraints, they c
 - [A colab that you can use to run the examples](https://colab.sandbox.google.com/drive/13gMtIoGCrU66ZY8-VkoQosal6yEtHQPF?usp=sharing)
 - [README on Interactive Beam](https://github.com/apache/beam/blob/master/sdks/python/apache_beam/runners/interactive/README.md) and [examples](https://github.com/apache/beam/blob/master/sdks/python/apache_beam/runners/interactive/examples).
 
+## Webinar 2: Best practices for a Production-ready Beam Pipeline
 
+In this presentation, Pablo Estrada introduces some Apache Beam utilities and practices to develop and test the 
+correctness of your pipelines. Interactively developing a pipeline that performs some simple analytics on our data.
+
+### Materials
+
+- Recorded session on Youtube **PENDING**
+- [Presentation slides](https://docs.google.com/presentation/d/1x0nEZDVYwzWYifKG6hdxxhPiUfHJGL-VRj4mAm5pcps/edit#slide=id.p)
+- [Github Repository with the code to walk along](https://github.com/pabloem/beam-covid-example)
 
 ---
 ## Information for Speakers
