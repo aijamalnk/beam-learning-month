@@ -33,6 +33,14 @@ correctness of your pipelines. Interactively developing a pipeline that performs
 - [Presentation slides](https://docs.google.com/presentation/d/1x0nEZDVYwzWYifKG6hdxxhPiUfHJGL-VRj4mAm5pcps/edit#slide=id.p)
 - [Github Repository with the code to walk along](https://github.com/pabloem/beam-covid-example)
 
+## Webinar 3: Apache Beam Everywhere. An Introduction to the Spark Runner
+
+In this presentation, Ismaël Mejía introduces the Beam Spark Runner and motivates its use by explaining its history, how it works and the advantages of using Spark as an execution system.
+
+### Materials
+
+- [Presentation slides](https://docs.google.com/presentation/d/1OAeji_E3QbRRvBVW_Wgt4e06Y5upYkR3c9NcB3IY75M/edit?usp=sharing)
+
 ---
 ## Information for Speakers
 
