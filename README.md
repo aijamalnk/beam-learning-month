@@ -64,8 +64,8 @@ In this section, write a brief description of your talk, and provide speaker inf
 ```
 ### Instructions for the speakers:
 - You are already registered as a speaker, you should receive the join link from zoom.us.
-- On the day of the event, we will start the meeting 10 mins before the meeting time to test your audio/video. If you don't have zoom, download a zoom client (no need to create zoom account) or join from browser  (after click joining link in your email, it opens up web browser and click join from browser link).
-- Find a quiet and confortable place to deliver the talk.
+- On the day of the event, we will start the meeting 10 mins before the meeting time to test your audio/video. If you don't have Zoom, you can download a Zoom client (no need to create a Zoom account) or join from the browser  (after you click the link in your email, it opens up the web browser and then you can click "Join from browser").
+- Find a quiet and comfortable place to deliver the talk.
 - Test and make sure the laptop microphone works.
 - Keep track of time. It is a good practice to spend 30-40mins on presentation, and another 10-15 mins on Q&A. 
 
