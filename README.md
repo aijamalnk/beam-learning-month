@@ -62,7 +62,7 @@ running Java, Python, and SQL pipelines.
 
 ### Materials
 
-- [Presentation slides](./Unlocking the Power of Apache Beam with Apache Flink.pdf)
+- [Presentation slides](Unlocking%20the%20Power%20of%20Apache%20Beam%20with%20Apache%20Flink.pdf)
 
 
 ---
