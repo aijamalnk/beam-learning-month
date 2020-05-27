@@ -43,7 +43,7 @@ In this presentation, Ismaël Mejía introduces the Beam Spark Runner and motiva
 - [Presentation slides](https://docs.google.com/presentation/d/1OAeji_E3QbRRvBVW_Wgt4e06Y5upYkR3c9NcB3IY75M/edit?usp=sharing)
 
 
-## Webinar 4 / The Best of Both Worlds: Unlocking the Power of Apache Beam with Apache Flink
+## Webinar 4: The Best of Both Worlds: Unlocking the Power of Apache Beam with Apache Flink
 
 Presenter: Maximilian Michels 
 
@@ -62,6 +62,7 @@ running Java, Python, and SQL pipelines.
 
 ### Materials
 
+- [Recorded session on YouTube](https://www.youtube.com/watch?v=ZCV9aRDd30U)
 - [Presentation slides](Unlocking%20the%20Power%20of%20Apache%20Beam%20with%20Apache%20Flink.pdf)
 
 
