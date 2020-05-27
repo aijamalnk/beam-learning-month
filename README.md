@@ -42,6 +42,29 @@ In this presentation, Ismaël Mejía introduces the Beam Spark Runner and motiva
 - [Recorded session on YouTube](https://www.youtube.com/watch?v=XI9Y85qks1w)
 - [Presentation slides](https://docs.google.com/presentation/d/1OAeji_E3QbRRvBVW_Wgt4e06Y5upYkR3c9NcB3IY75M/edit?usp=sharing)
 
+
+## Webinar 4 / The Best of Both Worlds: Unlocking the Power of Apache Beam with Apache Flink
+
+Presenter: Maximilian Michels 
+
+Apache Beam is a framework for writing stream and batch processing
+pipelines using multiple languages such as Java, Python, SQL, or Go.
+Apache Beam does not come with an execution engine of its own. Instead,
+it defers the execution to its Runners which translate Beam pipelines
+for any supported execution engine. Thus, users have complete control
+over the language and the execution engine they use, without having to
+rewrite their code.
+
+In this talk, we will look at running Apache Beam pipelines with Apache
+Flink. We will explain the concepts behind Apache Beam's portability
+framework for multi-language support, and then show how to get started
+running Java, Python, and SQL pipelines.
+
+### Materials
+
+- [Presentation slides](Unlocking%20the%20Power%20of%20Apache%20Beam%20with%20Apache%20Flink.pdf)
+
+
 ---
 ## Information for Speakers
 
