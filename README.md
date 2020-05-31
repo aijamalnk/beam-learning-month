@@ -65,6 +65,14 @@ running Java, Python, and SQL pipelines.
 - [Recorded session on YouTube](https://www.youtube.com/watch?v=ZCV9aRDd30U)
 - [Presentation slides](Unlocking%20the%20Power%20of%20Apache%20Beam%20with%20Apache%20Flink.pdf)
 
+## Webinar 5: Feature Powered by Apache Beam
+
+In this talk, Kobe Feng introduces how eBay marketing builds feature pipelines with Apache Beam. To unify feature extraction and selection in online and offline, to speedup E2E iteration for model training, evaluation and serving, to support different types (streaming, runtime, batch) of features, etc. eBay leverages Apache Beam for their streaming feature SDK as a foundation to integrate with Kafka, Hadoop, Flink, Airflow and others in eBay.
+
+### Materials
+
+- [Recorded session on Youtube]()
+- [Presentation slides](https://docs.google.com/presentation/d/1zqexjraqzjln-XITt3zLwsZrx-BqLjO9q0LcRtGjTk0/edit?usp=sharing)
 
 ---
 ## Information for Speakers
