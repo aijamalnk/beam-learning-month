@@ -71,7 +71,7 @@ In this talk, Kobe Feng introduces how eBay marketing builds feature pipelines w
 
 ### Materials
 
-- [Recorded session on Youtube]()
+- [Recorded session on Youtube](https://www.youtube.com/watch?v=Ncg3Re6OZ00)
 - [Presentation slides](https://docs.google.com/presentation/d/1zqexjraqzjln-XITt3zLwsZrx-BqLjO9q0LcRtGjTk0/edit?usp=sharing)
 
 ---
