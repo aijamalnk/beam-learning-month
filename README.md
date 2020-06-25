@@ -74,6 +74,18 @@ In this talk, Kobe Feng introduces how eBay marketing builds feature pipelines w
 - [Recorded session on Youtube](https://www.youtube.com/watch?v=Ncg3Re6OZ00)
 - [Presentation slides](https://docs.google.com/presentation/d/1zqexjraqzjln-XITt3zLwsZrx-BqLjO9q0LcRtGjTk0/edit?usp=sharing)
 
+## Webinar 6: Distributed Processing for Machine Learning Production Pipelines
+
+In this talk, Developer Advocates from Google - Reza Rokni and Robert Crwoe discuss production ML applications and review TensorFlow Extended (TFX), Apache Beam, and Google experience with ML in production.
+
+Production ML workloads often require very large compute and system resources, which leads to the application of distributed processing on clusters. On premises or cloud-based infrastructure cost requires maximum efficient use of resources. This makes distributed processing pipeline frameworks such as Apache Beam ideal for ML workloads. In addition, production ML must address issues of modern software methodology, as well as issues unique to ML. Different types of ML have different requirements, often driven by the different data lifecycles and sources of ground truth. Implementations often suffer from limitations in modularity, scalability, and extensibility.
+
+### Materials
+
+- [Recoded session on Youtube](https://www.youtube.com/watch?v=wVXds1gVtn8&t=15s)
+- [Slides from their presentation](https://drive.google.com/file/d/1lNb8ROlhxvBTCJNnIkPM_JuCeR_IA2ak/view?usp=sharing)
+- [Developing interactively with Apache Beam notebooks](https://cloud.google.com/dataflow/docs/guides/interactive-pipeline-development)
+
 ---
 ## Information for Speakers
 
